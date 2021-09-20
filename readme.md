@@ -1,6 +1,6 @@
-#Study project
+# Study project
 
-##This is the project of creation library on C 
+## This is the project of creation library on C 
 
 in directories dyproject stprogect are project-like files: data.c and main.c
 Also here them object files *.o
